@@ -5,7 +5,9 @@ Software Engineer | Passionate about Full-Stack Development, Clean Architecture 
 🌟 About Me
 
 🎯 Currently working as a Software Test Engineer II @ Gaming Laboratories International (GLI).
+
 💡 Skilled in Java, Python, JavaScript, React, Next.js, and PostgreSQL.
+
 🚀 Building full-stack and projects like Kill Doctor Lucky (Java MVC Game).
 
 🛠️ What I’m Working On
