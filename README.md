@@ -37,4 +37,4 @@ Clean Code, design patterns, and system architecture.
 📫 Let’s Connect!
 
 📧 Email: aarijsaigol@gmail.com
-🔗 LinkedIn: linkedin.com/in/aarij-saigol
+🔗 LinkedIn: [linkedin.com/in/aarij-saigol](https://www.linkedin.com/in/aarij-saigol/)
