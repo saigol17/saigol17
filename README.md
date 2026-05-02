@@ -6,7 +6,7 @@ Software Engineer | Passionate about Full-Stack Development, Clean Architecture 
 
 🎯 Currently working as a Software Test Engineer II @ Gaming Laboratories International (GLI).
 
-💡 Skilled in Java, Python, JavaScript, React, Next.js, and PostgreSQL.
+💡 Skilled in Java, Python, JavaScript, React, SpringBoot, and PostgreSQL.
 
 🚀 Building full-stack and projects like Kill Doctor Lucky (Java MVC Game).
 
@@ -22,7 +22,7 @@ Exploring backend integration with APIs and database management (PostgreSQL, Sup
 
 Advanced React Hooks & Next.js 15 concepts for production-ready web apps.
 
-Backend development with Node.js and PostgreSQL.
+Backend development with SpringBoot and PostgreSQL.
 
 Applying AI & automation into modern web applications.
 
